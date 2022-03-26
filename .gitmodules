@@ -1,0 +1,4 @@
+[submodule "main/Tone32"]
+	path = main/Tone32
+	url = git@github.com:lbernstone/Tone32.git
+	branch = master
